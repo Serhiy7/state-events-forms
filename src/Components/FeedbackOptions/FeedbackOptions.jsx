@@ -13,4 +13,4 @@ const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   );
 };
 
-// export default FeedbackOptions;
+export default FeedbackOptions;
